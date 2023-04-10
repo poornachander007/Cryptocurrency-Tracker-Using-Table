@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CryptocurrenciesList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Crypto_heading {
+  color: #00e7ff;
+}
+
+.img_cryptocurrency {
+  width: 50%;
+}
+
+.table_container {
+}
+
+.table_heading_row {
+}
+td {
+  padding: 5px;
+}

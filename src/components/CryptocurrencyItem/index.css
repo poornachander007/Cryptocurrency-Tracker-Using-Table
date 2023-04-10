@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.bitcoin_logoAndImage_container {
+  display: flex;
+  align-items: center;
+}
+.logo_bitcoin {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}

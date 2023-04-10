@@ -1,0 +1,16 @@
+/* Write your CSS here */
+* {
+  color: #ffffff;
+}
+.CryptocurrencyTracker {
+  width: 100%;
+  min-height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 'https://assets.ccbp.in/frontend/react-js/cryptocurrency-bg.png' 
+
+alt should be cryptocurrency */
